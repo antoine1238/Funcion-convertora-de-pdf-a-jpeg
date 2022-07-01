@@ -19,7 +19,7 @@ carpeta_name.replace("""
 """, "/")
 
 # Aqui empieza la magia
-c = 1
+c = desde
 while True:
     # uso de libreria: (pdf , poopler, desde, hasta)
     paginas = convert_from_path(
